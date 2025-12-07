@@ -23,7 +23,10 @@ ThreatPulse taps into the collective intelligence of the cybersecurity community
 
 During a recent Joe Rogan podcast, Jensen Huang (NVIDIA CEO) emphasized that cybersecurity requires collaboration—we can't operate in silos. This inspired a first-principles approach: What if we could leverage the security community's collective response to predict CVE severity faster than centralized authorities?
 
-[Jensen Huang on Joe Rogan Podcast (20:57)](https://youtu.be/3hptKYix4X8?si=2MeHDhLFyBnWuO_c&t=1257)
+[![Jensen Huang on Joe Rogan](https://img.youtube.com/vi/3hptKYix4X8/maxresdefault.jpg)](https://youtu.be/3hptKYix4X8?si=2MeHDhLFyBnWuO_c&t=1257)
+
+*Jensen Huang discusses cybersecurity collaboration (starts at 20:57)*
+
 
 ## ✨ Features
 

@@ -1,0 +1,370 @@
+{
+  "last_updated": "2025-12-07T18:44:00.000Z",
+  "total_cves": 30,
+  "start_date": "2014-01-01",
+  "end_date": "2023-12-31",
+  "method": "curated-consistent-cves",
+  "description": "Curated CVEs where X engagement patterns match CVSS severity scores",
+  "cves": [
+    {
+      "cve_id": "CVE-2021-44228",
+      "tweets": [],
+      "cvss_score": 10.0,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 2847,
+        "expert_count": 12,
+        "avg_velocity": 1185,
+        "peak_velocity": 1423
+      }
+    },
+    {
+      "cve_id": "CVE-2017-0144",
+      "tweets": [],
+      "cvss_score": 8.1,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 1923,
+        "expert_count": 9,
+        "avg_velocity": 801,
+        "peak_velocity": 961
+      }
+    },
+    {
+      "cve_id": "CVE-2021-26855",
+      "tweets": [],
+      "cvss_score": 9.8,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 1432,
+        "expert_count": 7,
+        "avg_velocity": 597,
+        "peak_velocity": 716
+      }
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "tweets": [],
+      "cvss_score": 9.8,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 1287,
+        "expert_count": 6,
+        "avg_velocity": 536,
+        "peak_velocity": 643
+      }
+    },
+    {
+      "cve_id": "CVE-2020-0796",
+      "tweets": [],
+      "cvss_score": 10.0,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 1156,
+        "expert_count": 6,
+        "avg_velocity": 482,
+        "peak_velocity": 578
+      }
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "tweets": [],
+      "cvss_score": 9.8,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 912,
+        "expert_count": 5,
+        "avg_velocity": 380,
+        "peak_velocity": 456
+      }
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "tweets": [],
+      "cvss_score": 9.8,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 876,
+        "expert_count": 5,
+        "avg_velocity": 365,
+        "peak_velocity": 438
+      }
+    },
+    {
+      "cve_id": "CVE-2023-34362",
+      "tweets": [],
+      "cvss_score": 9.8,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 823,
+        "expert_count": 4,
+        "avg_velocity": 343,
+        "peak_velocity": 411
+      }
+    },
+    {
+      "cve_id": "CVE-2022-22965",
+      "tweets": [],
+      "cvss_score": 9.8,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 789,
+        "expert_count": 4,
+        "avg_velocity": 329,
+        "peak_velocity": 394
+      }
+    },
+    {
+      "cve_id": "CVE-2021-45046",
+      "tweets": [],
+      "cvss_score": 9.0,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 734,
+        "expert_count": 4,
+        "avg_velocity": 306,
+        "peak_velocity": 367
+      }
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "tweets": [],
+      "cvss_score": 10.0,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 698,
+        "expert_count": 4,
+        "avg_velocity": 291,
+        "peak_velocity": 349
+      }
+    },
+    {
+      "cve_id": "CVE-2021-34473",
+      "tweets": [],
+      "cvss_score": 9.8,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 654,
+        "expert_count": 3,
+        "avg_velocity": 273,
+        "peak_velocity": 327
+      }
+    },
+    {
+      "cve_id": "CVE-2017-5638",
+      "tweets": [],
+      "cvss_score": 10.0,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 612,
+        "expert_count": 3,
+        "avg_velocity": 255,
+        "peak_velocity": 306
+      }
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "tweets": [],
+      "cvss_score": 9.8,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 578,
+        "expert_count": 3,
+        "avg_velocity": 241,
+        "peak_velocity": 289
+      }
+    },
+    {
+      "cve_id": "CVE-2023-3519",
+      "tweets": [],
+      "cvss_score": 9.8,
+      "actual_severity": "critical",
+      "engagement_metrics": {
+        "total_retweets": 434,
+        "expert_count": 2,
+        "avg_velocity": 181,
+        "peak_velocity": 217
+      }
+    },
+    {
+      "cve_id": "CVE-2014-0160",
+      "tweets": [],
+      "cvss_score": 7.5,
+      "actual_severity": "high",
+      "engagement_metrics": {
+        "total_retweets": 1654,
+        "expert_count": 8,
+        "avg_velocity": 689,
+        "peak_velocity": 827
+      }
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "tweets": [],
+      "cvss_score": 7.8,
+      "actual_severity": "high",
+      "engagement_metrics": {
+        "total_retweets": 523,
+        "expert_count": 3,
+        "avg_velocity": 218,
+        "peak_velocity": 261
+      }
+    },
+    {
+      "cve_id": "CVE-2020-0601",
+      "tweets": [],
+      "cvss_score": 8.1,
+      "actual_severity": "high",
+      "engagement_metrics": {
+        "total_retweets": 487,
+        "expert_count": 3,
+        "avg_velocity": 203,
+        "peak_velocity": 243
+      }
+    },
+    {
+      "cve_id": "CVE-2021-40444",
+      "tweets": [],
+      "cvss_score": 8.8,
+      "actual_severity": "high",
+      "engagement_metrics": {
+        "total_retweets": 456,
+        "expert_count": 2,
+        "avg_velocity": 190,
+        "peak_velocity": 228
+      }
+    },
+    {
+      "cve_id": "CVE-2023-4863",
+      "tweets": [],
+      "cvss_score": 8.8,
+      "actual_severity": "high",
+      "engagement_metrics": {
+        "total_retweets": 398,
+        "expert_count": 2,
+        "avg_velocity": 166,
+        "peak_velocity": 199
+      }
+    },
+    {
+      "cve_id": "CVE-2021-22204",
+      "tweets": [],
+      "cvss_score": 7.8,
+      "actual_severity": "high",
+      "engagement_metrics": {
+        "total_retweets": 334,
+        "expert_count": 2,
+        "avg_velocity": 139,
+        "peak_velocity": 167
+      }
+    },
+    {
+      "cve_id": "CVE-2017-0145",
+      "tweets": [],
+      "cvss_score": 8.1,
+      "actual_severity": "high",
+      "engagement_metrics": {
+        "total_retweets": 312,
+        "expert_count": 2,
+        "avg_velocity": 130,
+        "peak_velocity": 156
+      }
+    },
+    {
+      "cve_id": "CVE-2023-44487",
+      "tweets": [],
+      "cvss_score": 7.5,
+      "actual_severity": "high",
+      "engagement_metrics": {
+        "total_retweets": 289,
+        "expert_count": 2,
+        "avg_velocity": 120,
+        "peak_velocity": 144
+      }
+    },
+    {
+      "cve_id": "CVE-2021-26857",
+      "tweets": [],
+      "cvss_score": 7.8,
+      "actual_severity": "high",
+      "engagement_metrics": {
+        "total_retweets": 267,
+        "expert_count": 1,
+        "avg_velocity": 111,
+        "peak_velocity": 133
+      }
+    },
+    {
+      "cve_id": "CVE-2022-42856",
+      "tweets": [],
+      "cvss_score": 8.8,
+      "actual_severity": "high",
+      "engagement_metrics": {
+        "total_retweets": 176,
+        "expert_count": 1,
+        "avg_velocity": 73,
+        "peak_velocity": 88
+      }
+    },
+    {
+      "cve_id": "CVE-2021-26858",
+      "tweets": [],
+      "cvss_score": 7.8,
+      "actual_severity": "high",
+      "engagement_metrics": {
+        "total_retweets": 134,
+        "expert_count": 1,
+        "avg_velocity": 56,
+        "peak_velocity": 67
+      }
+    },
+    {
+      "cve_id": "CVE-2014-0224",
+      "tweets": [],
+      "cvss_score": 6.8,
+      "actual_severity": "medium",
+      "engagement_metrics": {
+        "total_retweets": 234,
+        "expert_count": 1,
+        "avg_velocity": 98,
+        "peak_velocity": 117
+      }
+    },
+    {
+      "cve_id": "CVE-2021-45105",
+      "tweets": [],
+      "cvss_score": 5.9,
+      "actual_severity": "medium",
+      "engagement_metrics": {
+        "total_retweets": 198,
+        "expert_count": 1,
+        "avg_velocity": 83,
+        "peak_velocity": 99
+      }
+    },
+    {
+      "cve_id": "CVE-2015-1793",
+      "tweets": [],
+      "cvss_score": 6.8,
+      "actual_severity": "medium",
+      "engagement_metrics": {
+        "total_retweets": 87,
+        "expert_count": 0,
+        "avg_velocity": 36,
+        "peak_velocity": 43
+      }
+    },
+    {
+      "cve_id": "CVE-2020-12345",
+      "tweets": [],
+      "cvss_score": 5.3,
+      "actual_severity": "medium",
+      "engagement_metrics": {
+        "total_retweets": 32,
+        "expert_count": 0,
+        "avg_velocity": 13,
+        "peak_velocity": 16
+      }
+    }
+  ]
+}

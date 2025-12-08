@@ -4,8 +4,7 @@
 
 ThreatPulse uses reinforcement learning to predict CVE severity by analyzing X (Twitter) community engagement patterns—giving security teams up to 22 hours advance warning before official NVD scores are published.
 
-<video src="demo.mov" width="320" height="240" controls></video>
-
+![](demo.gif)
 
 ## 🎯 The Problem
 

@@ -1,4 +1,4 @@
-# ⚡ ThreatPulse
+# ⚡ ThreatPulse (xAI Hackathon)
 
 **AI-Powered CVE Severity Prediction from X Community Signals**
 
